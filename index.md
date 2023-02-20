@@ -32,3 +32,7 @@ int main()
     return 0;
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my outline
+- [ ] Introduce myself to the world
