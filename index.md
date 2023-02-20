@@ -4,3 +4,5 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+![Image of Luchadortocat](https://octodex.github.com/images/luchadortocat.png)
